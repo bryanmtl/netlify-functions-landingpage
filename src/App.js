@@ -73,10 +73,9 @@ export default class App extends Component {
             <div className="landing-page">
             <div className='container'>
                 <div className="row main">
-                <h3 className="logo aligncenter">
+                <h3 className="logo">
                     <img src={logo} alt="Racines Wine Logo" />
                 </h3>
-
                 <p>
                     <strong>Etienne de Montille and Brian Sieve</strong><br/>
                     (Burgundy), <strong>Rodolphe Peters</strong> (Champagne)<br/>
