@@ -139,6 +139,15 @@ h4 {
     z-index: 3;
     position: relative;
     width: 450px;
+
+    /* vertically center */
+    height: 75%;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;    
 }
 
 .main {
